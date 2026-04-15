@@ -285,3 +285,4 @@ def calculate_ksp_from_solubility(
     ksp = (x**x) * (y**y) * (molar_solubility_s**(x + y))
     
     return ksp
+
